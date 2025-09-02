@@ -1,0 +1,100 @@
+Evidencias para Juan Camilo Serrano ( 2246245 )
+fail - /home/vagrant/dataexplorer/backend/controller.ts
+fail - /home/vagrant/dataexplorer/frontend/js/button_manager.js
+fail - /home/vagrant/dataexplorer/frontend/js/text_interaction.js
+fail - /home/vagrant/dataexplorer/frontend/css/styles1.css
+fail - /home/vagrant/dataexplorer/frontend/css/styles2.css
+fail - /home/vagrant/dataexplorer/frontend/css/styles3.css
+fail - /home/vagrant/dataexplorer/frontend/index.html
+fail - /home/vagrant/dataexplorer/frontend/about.html
+fail - /home/vagrant/dataexplorer/frontend/contact.html
+    1  dir
+    2  sudo poweroff
+    3  dir
+    4  ls
+    5  cd
+    6  cd \
+    7  cd /mnt/
+    8  dir
+    9  cd /
+   10  dir
+   11  cd /usr/
+   12  dir
+   13  cd /share/
+   14  cd share
+   15  dir
+   16  cd ..
+   17  cd ~/media/
+   18  cd media
+   19  ls
+   20  ls /media/sf_insumos
+   21  sudo usermod -aG vboxsf $USER
+   22  sudo reboot
+   23  ls
+   24  cd /
+   25  dir
+   26  cd mnt
+   27  dir
+   28  cd ..
+   29  cd media
+   30  ls
+   31  cd ..
+   32  cd home
+   33  ls
+   34  cd vagrant
+   35  ls
+   36  git clone github.com/Juannpan/vm_pmedia
+   37  sudo dnf uptate -y
+   38  sudo dnf install git -y
+   39  git --version
+   40  git clone httpss://github.comm/Juannpan/vm_pmedia
+   41  git clone https://github.com/Juannpan/vm_pmedia
+   42  ls
+   43  cd vm_pmedia
+   44  ls
+   45  poweroff
+   46  ls
+   47  cd vm_pmedia
+   48  type source
+   49  help source
+   50  source dataexplorer_setup.sh
+   51  ls
+   52  cd dataexplorer
+   53  ls
+   54  nano enviroment.txt
+   55  help nano
+   56  cat enviroment.txt
+   57  cd..
+   58  cd ..
+   59  ls
+   60  vm_pmedia
+   61  cd vm_pmedia
+   62  ls
+   63  sudo mv dataexplorer_v_1_-.tar.gz ~/dataexplorer/
+   64  sudo mv dataexplorer_v_1_0.tar.gz ~/dataexplorer/
+   65  cd ..
+   66  cd dataexplorer
+   67  ls
+   68  sudo dnf install tree -y
+   69  tree
+   70  tree -L 0
+   71  tree -L 4
+   72  tree -L 5
+   73  tree -a -L 5
+   74  ls
+   75  ls data
+   76  ls data/csv
+   77  tar -xvzf dataexplorer_v_1_0.tar.gz
+   78  ls
+   79  tree
+   80  sudo mv controller.ts app/backend
+   81  sudo mv *.css app/frontend/css
+   82  sudo mv *.js app/frontend/js
+   83  tree
+   84  cd..
+   85  cd ..
+   86  ls
+   87  vm_pmedia
+   88  cd vm_pmedia
+   89  ls
+   90  source collect_evidence.sh
